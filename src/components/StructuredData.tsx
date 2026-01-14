@@ -10,7 +10,7 @@ export function StructuredData() {
     description: 'Home care, enfermagem e equipe multidisciplinar para domicílios, hospitais e ILPIs.',
     contactPoint: {
       '@type': 'ContactPoint',
-      telephone: '+55-21-98768-1750',
+      telephone: '+55-21-98202-0808',
       contactType: 'customer service',
       areaServed: 'BR',
       availableLanguage: 'Portuguese',
@@ -24,7 +24,7 @@ export function StructuredData() {
     image: 'https://www.nexacarebr.com.br/nexa-care-logo-final.png',
     '@id': 'https://www.nexacarebr.com.br',
     url: 'https://www.nexacarebr.com.br',
-    telephone: '+55-21-98768-1750',
+    telephone: '+55-21-98202-0808',
     priceRange: '$$',
     address: {
       '@type': 'PostalAddress',

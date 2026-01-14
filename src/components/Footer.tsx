@@ -80,7 +80,7 @@ export function Footer() {
               </div>
               <div className="flex items-center gap-2">
                 <Phone size={18} className="flex-shrink-0 text-[#0077b6]" />
-                <span>(21) 98768-1750</span>
+                <span>(21) 98202-0808</span>
               </div>
               <div className="flex items-center gap-2">
                 <Mail size={18} className="flex-shrink-0 text-[#0077b6]" />
@@ -100,7 +100,7 @@ export function Footer() {
                 </div>
               </div>
               <a
-                href="https://wa.me/5521987681750"
+                href="https://wa.me/5521982020808"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-[#25D366] text-white px-5 py-3 rounded-full hover:bg-[#20bd5a] transition-all font-medium mt-2 hover:shadow-lg"

@@ -9,7 +9,7 @@ export function Hero() {
   };
 
   const handleWhatsAppClick = () => {
-    const phoneNumber = '5521999999999';
+    const phoneNumber = '5521982020808';
     const message = encodeURIComponent('Olá! Gostaria de contratar os serviços de home care da Nexa Care.');
     window.open(`https://wa.me/${phoneNumber}?text=${message}`, '_blank');
   };

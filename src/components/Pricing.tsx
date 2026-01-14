@@ -112,7 +112,7 @@ export function Pricing() {
   ];
 
   const handleWhatsAppContact = (planTitle: string, serviceType: string) => {
-    const phone = '5521996100386';
+    const phone = '5521982020808';
     const message = encodeURIComponent(`Olá! Gostaria de contratar o ${planTitle} de ${serviceType}.`);
     window.open(`https://wa.me/${phone}?text=${message}`, '_blank');
   };
@@ -194,7 +194,7 @@ export function Pricing() {
 
         <div className="text-center">
           <p className="text-gray-600 text-lg">
-            Entre em contato: <span className="font-semibold text-[#003049]">(21) 99610-0386</span>
+            Entre em contato: <span className="font-semibold text-[#003049]">(21) 98202-0808</span>
           </p>
         </div>
       </div>

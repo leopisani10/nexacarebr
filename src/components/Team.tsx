@@ -172,7 +172,7 @@ export function Team() {
               Monte sua equipe ideal combinando diferentes profissionais. Entre em contato via WhatsApp para um orçamento personalizado.
             </p>
             <a
-              href="https://wa.me/5511999999999?text=Olá! Gostaria de saber mais sobre equipes multiprofissionais."
+              href="https://wa.me/5521982020808?text=Olá! Gostaria de saber mais sobre equipes multiprofissionais."
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-3 bg-white text-[#003049] px-10 py-5 rounded-full font-extrabold text-base lg:text-lg hover:bg-gray-100 transition-all duration-300 hover:scale-105 shadow-2xl"
